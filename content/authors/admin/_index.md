@@ -16,9 +16,11 @@ social:
     link: https://www.linkedin.com/in/mathieu-even-862327151/
 organizations:
   - name: Inria Paris
-    url: https://www.stanford.edu/
+    url: https://www.inria.fr/fr/centre-inria-de-paris
   - name: DI ENS, ENS Paris
+    url: https://www.ens.psl.eu/
   - name: Paris Institute of Artificial Intelligence (PR[AI]RIE)
+    url: https://prairie-institute.fr/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -30,7 +32,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: mathieu.even@inria.fr
 superuser: true
 highlight_name: true
 ---
