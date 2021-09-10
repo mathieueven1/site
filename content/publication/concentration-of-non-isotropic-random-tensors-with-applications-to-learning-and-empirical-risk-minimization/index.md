@@ -1,8 +1,12 @@
 ---
-title: Concentration of Non-Isotropic Random Tensors with Applications to
-  Learning and Empirical Risk Minimization
+title: [Concentration of Non-Isotropic Random Tensors with Applications to
+  Learning and Empirical Risk Minimization](http://proceedings.mlr.press/v134/even21a.html)
+  
+
 publication_types:
   - "1"
+publication_short: In *COLT2021*
+
 draft: false
 featured: false
 image:
