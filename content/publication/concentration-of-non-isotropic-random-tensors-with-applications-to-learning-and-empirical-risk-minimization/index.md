@@ -6,8 +6,8 @@ publication_types:
 authors:
   - admin
   - Laurent Massoulié
-publication: International Conference on Machine Learning, 2021
-publication_short: ICML2021
+publication: Conference on Learning Theory, 2021
+publication_short: COLT2021
 draft: false
 featured: false
 image:
