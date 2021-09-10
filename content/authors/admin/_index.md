@@ -2,11 +2,11 @@
 title: Mathieu Even
 role: PhD student in Statistics and Optimization
 avatar_filename: avatar.jpg
-bio: "My research interests lie at the intersection of Optimization, Statistics
-  and Probabilities. "
+bio: ""
 interests:
   - Optimization
   - Statistics
+  - Surfing and hiking
 social:
   - icon: graduation-cap
     icon_pack: fas
