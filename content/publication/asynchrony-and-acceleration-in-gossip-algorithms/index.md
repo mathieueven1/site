@@ -7,6 +7,7 @@ authors:
   - admin
   - Hadrien Hendrikx
   - Laurent Massoulié
+abstract: "[See on arxiv](https://arxiv.org/pdf/2011.02379.pdf)"
 draft: false
 featured: false
 image:
