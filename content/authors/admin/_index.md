@@ -3,7 +3,11 @@ title: Mathieu Even
 role: PhD student in Statistics and Optimization
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Optimization
+  - Statistics
+  - Surfing
+  - Hiking
 social:
   - icon: graduation-cap
     icon_pack: fas
