@@ -1,6 +1,6 @@
 ---
-title: "[Asynchrony and Acceleration in Gossip
-  Algorithms](https://arxiv.org/pdf/2011.02379.pdf)"
+title: Asynchrony and Acceleration in Gossip Algorithms
+subtitle: "[See on arxiv](https://arxiv.org/pdf/2011.02379.pdf)"
 publication_types:
   - "3"
 authors:
