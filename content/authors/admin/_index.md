@@ -23,15 +23,12 @@ organizations:
     url: https://prairie-institute.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master Program in Probability and Statistics
+      institution: Université d'Orsay/Paris-Saclay
+      year: 2020
+    - course: Mathematics and Physics studies
+      institution: Ecole Normale Supérieure de Paris
+      year: ""
 email: mathieu.even@inria.fr
 superuser: true
 highlight_name: true
