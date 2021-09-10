@@ -1,9 +1,9 @@
 ---
-title: "An example conference paper"
+title: "Concentration of Non-Isotropic Random Tensors with Applications to Learning and Empirical Risk Minimization"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Laurent Massoulié
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Conference on Learning Theory, 2021*
+publication_short: In *COLT2021*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Dimension is an inherent bottleneck to some modern learning tasks, where optimization methods suffer from the size of the data. In this paper, we study non-isotropic distributions of data and develop tools that aim at reducing these dimensional costs by a dependency on an effective dimension rather than the ambient one. Based on non-asymptotic estimates of the metric entropy of ellipsoids -that prove to generalize to infinite dimensions- and on a chaining argument, our uniform concentration bounds involve an effective dimension instead of the global dimension, improving over existing results. We show the importance of taking advantage of non-isotropic properties in learning problems with the following applications: i) we improve state-of-the-art results in statistical preconditioning for communication-efficient distributed optimization, ii) we introduce a non-isotropic randomized smoothing for non-smooth optimization. Both applications cover a class of functions that encompasses empirical risk minization (ERM) for linear models.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -30,8 +30,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: http://proceedings.mlr.press/v134/even21a.html
+url_pdf: http://proceedings.mlr.press/v134/even21a/even21a.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
