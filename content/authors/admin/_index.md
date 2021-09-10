@@ -34,4 +34,4 @@ email: mathieu.even@inria.fr
 superuser: true
 highlight_name: true
 ---
-I am a PhD student since September 2021 under the supervision of Laurent Massoulié, working on subjects such as Decentralized Optimization, Federated Learning and High Dimensional Statistics.
+I am a PhD student since September 2021 under the supervision of Laurent Massoulié, working on the theory and algorithms of Machine Learning. I am particularly interested in optimization (in all its form: distributed, decentralized, stochastic,...), topics related to Federated Learning, gossip algorithms and high-dimensional statistics.
