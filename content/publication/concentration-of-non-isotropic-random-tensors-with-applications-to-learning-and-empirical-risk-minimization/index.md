@@ -5,6 +5,7 @@ title: [Concentration of Non-Isotropic Random Tensors with Applications to
 
 publication_types:
   - "1"
+publication: In *Conference on Learning Theory, 2021*
 publication_short: In *COLT2021*
 
 draft: false
