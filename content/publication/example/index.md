@@ -19,7 +19,7 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: [arxiv](https://arxiv.org/pdf/2011.02379.pdf)
 doi: ""
 featured: true
 tags: []
