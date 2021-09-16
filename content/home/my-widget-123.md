@@ -1,6 +1,6 @@
 ---
 widget: teaching
-widget_id: my-widget-123
+widget_id: teaching
 headless: true
 weight: 80
 title: Teaching
