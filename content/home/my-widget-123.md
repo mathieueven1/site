@@ -1,5 +1,5 @@
 ---
-widget: teaching
+widget: page
 widget_id: teaching
 headless: true
 weight: 80
