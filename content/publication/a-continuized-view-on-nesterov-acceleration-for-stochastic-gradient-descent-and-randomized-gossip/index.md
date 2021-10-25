@@ -2,7 +2,7 @@
 title: A Continuized View on Nesterov Acceleration for Stochastic Gradient
   Descent and Randomized Gossip
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Raphaël Berthier
@@ -12,6 +12,9 @@ authors:
   - Hadrien Hendrikx
   - Laurent Massoulié
   - Adrien Taylor
+publication: Neural Information Processing Systems (NeurIPS), 2021, Oral (<1% of
+  accepted papers)
+publication_short: NeurIPS2021 (oral)
 draft: false
 featured: false
 image:
