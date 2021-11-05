@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: blank
 widget_id: imagedolo
 headless: true
 weight: 50
