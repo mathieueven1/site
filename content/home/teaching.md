@@ -2,7 +2,7 @@
 widget: blank
 widget_id: teaching
 headless: true
-weight: 60
+weight: 100
 title: Teaching
 design:
   columns: "1"
