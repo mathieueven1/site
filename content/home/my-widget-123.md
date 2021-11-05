@@ -1,8 +1,9 @@
 ---
 widget: pages
-widget_id: my-widget-123
+widget_id: imagedolo
 headless: true
 weight: 10
+title: ""
 active: true
 design:
   columns: "1"
