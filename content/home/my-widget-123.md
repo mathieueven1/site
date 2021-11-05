@@ -2,7 +2,7 @@
 widget: pages
 widget_id: imagedolo
 headless: true
-weight: 10
+weight: 50
 title: ""
 active: true
 design:
