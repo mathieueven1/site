@@ -12,3 +12,6 @@ design:
     image_darken: 0
     image: 79196387-6a18-49fe-be78-edc32e4bdc2f.jpeg
 ---
+
+79196387-6a18-49fe-be78-edc32e4bdc2f.jpeg
+
