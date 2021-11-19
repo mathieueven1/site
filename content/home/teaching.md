@@ -13,6 +13,6 @@ design:
     gradient_start: ""
     image: ""
 ---
-\- Mathematics of Deep-Learning, ENS Paris, Fall 2021. Master course.
+\- Mathematics of Deep-Learning, ENS Paris, Fall 2021. Master course, TDs with Kevin Scaman.
 
-\- Network Algorithms, ENS Paris, Fall 2021. Master course.
+\- Network Algorithms, ENS Paris, Fall 2021. Master course, TDs with Ana Busic.
