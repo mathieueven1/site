@@ -12,9 +12,8 @@ authors:
   - Hadrien Hendrikx
   - Laurent Massoulié
   - Adrien Taylor
-publication: Neural Information Processing Systems (NeurIPS), 2021, Oral (<1% of
-  accepted papers)
-publication_short: NeurIPS2021 (oral)
+publication: Neural Information Processing Systems (NeurIPS), 2021, Outstanding paper award (6 out of >9000))
+publication_short: NeurIPS2021 (Outstanding paper award)
 draft: false
 featured: false
 image:
