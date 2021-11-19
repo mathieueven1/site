@@ -17,6 +17,6 @@ design:
 
 \- Workshop On Future Synergies for Stochastic and Learning Algorithms, CIRM, Luminy, Sept. 27-Oct. 1, 2021. (poster)
 
-\- Conference on Learning Theory (COLT), August 15-19, 2021. (talk, slides, poster)
+\- Conference on Learning Theory (COLT), August 15-19, 2021. \href{(talk,slides,poster)}{http://www.learningtheory.org/colt2021/virtual/poster_33.html}
 
 \- International Conference on Machine Learning (ICML), July 18-24, 2021. (talk, slides, poster)
