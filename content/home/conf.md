@@ -13,10 +13,10 @@ design:
     gradient_start: ""
     image: ""
 ---
-\- Prairie Workshop, Paris, October 10, 2021. (poster)
+\- Prairie Workshop, Paris, October 10, 2021.
 
-\- Workshop On Future Synergies for Stochastic and Learning Algorithms, CIRM, Luminy, Sept. 27-Oct. 1, 2021. (poster)
+\- Workshop On Future Synergies for Stochastic and Learning Algorithms, CIRM, Luminy, Sept. 27-Oct. 1, 2021.
 
 \- Conference on Learning Theory (COLT), August 15-19, 2021. [(talk,slides,poster)](http://www.learningtheory.org/colt2021/virtual/poster_33.html)
 
-\- International Conference on Machine Learning (ICML), July 18-24, 2021. (talk, slides, poster)
+\- International Conference on Machine Learning (ICML), July 18-24, 2021. [(spotlight presentation)](https://icml.cc/virtual/2021/spotlight/9484)
