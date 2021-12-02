@@ -13,7 +13,7 @@ authors:
   - Laurent Massoulié
   - Adrien Taylor
 publication: Neural Information Processing Systems (NeurIPS), 2021
-publication_short: NeurIPS2021 (Oral)
+publication_short: NeurIPS2021 (Outstanding Paper Award)
 draft: false
 featured: false
 image:
