@@ -1,17 +1,20 @@
-@misc{https://doi.org/10.48550/arxiv.2206.05091,
-  doi = {10.48550/ARXIV.2206.05091},
-  
-  url = {https://arxiv.org/abs/2206.05091},
-  
-  author = {Cyffers, Edwige and Even, Mathieu and Bellet, Aurélien and Massoulié, Laurent},
-  
-  keywords = {Cryptography and Security (cs.CR), Distributed, Parallel, and Cluster Computing (cs.DC), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Muffliato: Peer-to-Peer Privacy Amplification for Decentralized Optimization and Averaging},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
-}
+---
+title: Muffliato: Peer-to-Peer Privacy Amplification for Decentralized Optimization and Averaging
+subtitle: ""
+publication_types:
+  - "3"
+authors:
+  - Edwige Cyffers
+  - admin
+  - Aurélien Bellet
+  - Laurent Massoulié
+abstract: "[See on arxiv](https://arxiv.org/abs/2206.05091)"
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+summary: "[See on arxiv](https://arxiv.org/abs/2206.05091)"
+date: 2022-07-08T08:12:10.676Z
+---
