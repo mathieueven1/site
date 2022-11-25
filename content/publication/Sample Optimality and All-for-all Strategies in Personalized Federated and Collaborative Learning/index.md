@@ -2,7 +2,7 @@
 title: On Sample Optimality in Personalized Federated and Collaborative Learning
 subtitle: ""
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Laurent Massoulié
