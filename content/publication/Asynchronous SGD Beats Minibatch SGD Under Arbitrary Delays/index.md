@@ -2,12 +2,13 @@
 title: Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays
 subtitle: ""
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Konstantin Mischenko
   - Francis Bach
   - admin
   - Blake Woodworth
+publication: Neural Information Processing Systems (NeurIPS), 2021
 abstract: "[See on arxiv](https://arxiv.org/abs/2206.07638)"
 draft: false
 featured: false
