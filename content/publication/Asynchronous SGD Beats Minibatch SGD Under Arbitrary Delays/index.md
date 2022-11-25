@@ -8,7 +8,7 @@ authors:
   - Francis Bach
   - admin
   - Blake Woodworth
-publication: Neural Information Processing Systems (NeurIPS), 2021
+publication: Neural Information Processing Systems (NeurIPS), 2022
 abstract: "[See on arxiv](https://arxiv.org/abs/2206.07638)"
 draft: false
 featured: false
