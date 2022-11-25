@@ -1,5 +1,5 @@
 ---
-title: Sample Optimality and All-for-all Strategies in Personalized Federated and Collaborative Learning
+title: On Sample Optimality in Personalized Federated and Collaborative Learning
 subtitle: ""
 publication_types:
   - "3"
@@ -7,6 +7,7 @@ authors:
   - admin
   - Laurent Massoulié
   - Kevin Scaman
+publication: Neural Information Processing Systems (NeurIPS), 2022
 abstract: "[See on arxiv](https://arxiv.org/pdf/2201.13097.pdf)"
 draft: false
 featured: false
