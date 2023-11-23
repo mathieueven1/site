@@ -8,7 +8,7 @@ authors:
   - Scott Pesme
   - Suriya Gunasekar
   - Nicolas Flammarion
-publication: preprint
+publication: Neural Information Processing Systems (NeurIPS), 2022
 abstract: "[See on arxiv](https://arxiv.org/abs/2302.08982)"
 draft: false
 featured: false
