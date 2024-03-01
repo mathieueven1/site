@@ -6,8 +6,6 @@ bio: ""
 interests:
   - Optimization
   - Statistics
-  - Surfing
-  - Hiking
 social:
   - icon: graduation-cap
     icon_pack: fas
