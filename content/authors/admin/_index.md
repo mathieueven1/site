@@ -38,7 +38,7 @@ I also work with the startup [Theremia Health](https://theremia.health/).
 
 Before that, I was a PhD student from September 2021 to June 2024 under the supervision of [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/), working on the theory and algorithms of Machine Learning. During my PhD, I was particularly interested in optimization (in all its form: distributed, decentralized, stochastic,...), topics related to Federated Learning, gossip algorithms and high-dimensional statistics, deep learning, and the theory of deep learning.
 
-I was lucky to receive an [Oustdanding Paper Award](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/) together with my colaborators at NeurIPS 2021, for our [continuized Nesterov acceleration](https://proceedings.neurips.cc/paper/2021/file/ec26fc2eb2b75aece19c70392dc744c2-Paper.pdf) paper.
+I was lucky to receive an [Outstanding Paper Award](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/) together with my colaborators at NeurIPS 2021, for our [continuized Nesterov acceleration](https://proceedings.neurips.cc/paper/2021/file/ec26fc2eb2b75aece19c70392dc744c2-Paper.pdf) paper.
 I was a TA for courses at ENS Paris and at the M2 MASH held at PSL-Dauphine, that include Deep Learning courses (teachers: Marc Lelarge and Kevin Scaman) and Network Algorithms courses (teacher: Ana Busic). 
 I interned at Microsoft Reasearch (Redmond, WA) in the Foundations of Machine Learning group in Fall 2022 and at EPLF in the TML team led by Nicolas Flammarion in Fall 2023.
 
