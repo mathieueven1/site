@@ -1,11 +1,13 @@
 ---
 title: Mathieu Even
-role: PhD student in Statistics and Optimization
+role: Postdoc at Inria Montpellier
 avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Optimization
   - Statistics
+  - Causal Inference
+  - Medical Applications
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -14,14 +16,11 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mathieu-even-862327151/
 organizations:
-  - name: Inria Paris
-    url: https://www.inria.fr/fr/centre-inria-de-paris
-  - name: DI ENS, ENS Paris
-    url: https://www.ens.psl.eu/
-  - name: Paris Institute of Artificial Intelligence (PR[AI]RIE)
-    url: https://prairie-institute.fr/
+  - name: Inria Montpellier, PREMEDICAL Research Project team
+    url: [https://www.inria.fr/fr/centre-inria-de-paris](https://team.inria.fr/premedical/)
 education:
   courses:
+    - course: PhD in Applied Mathematics and Computer Science, Inria Paris and ENS Paris
     - course: Master Program in Probability and Statistics
       institution: Université d'Orsay/Paris-Saclay
       year: 2020
