@@ -1,6 +1,6 @@
 ---
 title: Asynchronous SGD on Graphs: a Unified Framework for Asynchronous Decentralized and Federated Optimization
-subtitle: ""
+subtitle: "NA"
 publication_types:
   - "1"
 authors:
@@ -15,6 +15,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: ""
-date: 2023-02-02T08:12:10.676Z
+summary: "NA"
+date: 2023-10-10T08:12:10.676Z
 ---
