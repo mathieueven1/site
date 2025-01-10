@@ -22,7 +22,7 @@ education:
   courses:
     - course: PhD in Applied Mathematics and Computer Science (2021-2024)
       institution: Inria Paris and ENS Paris
-      year:
+      year: ""
     - course: Master Program in Probability and Statistics
       institution: Université d'Orsay/Paris-Saclay
       year: 2020
