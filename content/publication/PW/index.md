@@ -1,5 +1,5 @@
 ---
-title: Implicit Regularisation, Large Stepsizes and Edge of Stability for (S)GD over Diagonal Linear Networks
+title: Aligning Embeddings and Geometric Random Graphs: Informational Results and Computational Approaches for the Procrustes-Wasserstein Problem
 subtitle: ""
 publication_types:
   - "1"
