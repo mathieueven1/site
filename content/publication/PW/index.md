@@ -9,13 +9,13 @@ authors:
   - Jakob Maier
   - Laurent Massoulié
 publication: Neural Information Processing Systems (NeurIPS), 2024
-abstract: 
+abstract: "NA"
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary:
+summary: "NA"
 date: 2024-06-02T08:12:10.676Z
 ---
