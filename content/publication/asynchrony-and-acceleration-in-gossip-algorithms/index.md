@@ -1,13 +1,14 @@
 ---
-title: Asynchrony and Acceleration in Gossip Algorithms
+title: Asynchronous speedup in decentralized optimization
 subtitle: ""
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Hadrien Hendrikx
   - Laurent Massoulié
-abstract: "[See on arxiv](https://arxiv.org/pdf/2011.02379.pdf)"
+publication: IEEE Transactions on Automatic Control
+abstract: 
 draft: false
 featured: false
 image:
@@ -15,6 +16,5 @@ image:
   focal_point: Smart
   preview_only: false
 summary: "[See on arxiv](https://arxiv.org/pdf/2011.02379.pdf)"
-date: 2021-09-10T09:47:10.379Z
+date: 2024-09-10T09:47:10.379Z
 ---
-\[See on arxiv](https://arxiv.org/pdf/2011.02379.pdf)[n arxiv](https://arxiv.org/pdf/2011.02379.pdf)
