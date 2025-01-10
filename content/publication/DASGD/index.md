@@ -16,5 +16,5 @@ image:
   focal_point: Smart
   preview_only: false
 summary: ""
-date: 2023-10-02T08:12:10.676Z
+date: 2023-10-02
 ---
