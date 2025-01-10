@@ -17,7 +17,7 @@ social:
     link: https://www.linkedin.com/in/mathieu-even-862327151/
 organizations:
   - name: Inria Montpellier, PREMEDICAL Research Project team
-    url: [https://www.inria.fr/fr/centre-inria-de-paris](https://team.inria.fr/premedical/)
+    url: https://team.inria.fr/premedical/
 education:
   courses:
     - course: PhD in Applied Mathematics and Computer Science (2021-2024)
