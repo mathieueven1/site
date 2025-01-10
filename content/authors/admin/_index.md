@@ -20,11 +20,13 @@ organizations:
     url: [https://www.inria.fr/fr/centre-inria-de-paris](https://team.inria.fr/premedical/)
 education:
   courses:
-    - course: PhD in Applied Mathematics and Computer Science, Inria Paris and ENS Paris
+    - course: PhD in Applied Mathematics and Computer Science (2021-2024)
+      institution: Inria Paris and ENS Paris
+      year:
     - course: Master Program in Probability and Statistics
       institution: Université d'Orsay/Paris-Saclay
       year: 2020
-    - course: Mathematics and Physics studies
+    - course: Mathematics and Physics studies (2017-2021)
       institution: Ecole Normale Supérieure de Paris
       year: ""
 email: mathieu.even@inria.fr
