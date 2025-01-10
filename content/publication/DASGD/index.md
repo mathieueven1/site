@@ -7,7 +7,7 @@ authors:
   - admin
   - Anastasia Koloskova
   - Laurent Massoulié
-publication: Artificial Intelligence and Statistics (AISTATS), 2024
+publication: AISTATS, 2024
 abstract: ""
 draft: false
 featured: false
