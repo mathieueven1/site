@@ -1,5 +1,5 @@
 ---
-title: Aligning Embeddings and Geometric Random Graphs: Informational Results and Computational Approaches for the Procrustes-Wasserstein Problem
+title: Aligning Embeddings and Geometric Random Graphs, Informational Results and Computational Approaches for the Procrustes-Wasserstein Problem
 subtitle: ""
 publication_types:
   - "1"
