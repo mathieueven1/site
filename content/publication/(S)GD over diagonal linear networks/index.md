@@ -9,13 +9,13 @@ authors:
   - Suriya Gunasekar
   - Nicolas Flammarion
 publication: Neural Information Processing Systems (NeurIPS), 2023
-abstract: "[See on arxiv](https://arxiv.org/abs/2302.08982)"
+abstract: ""
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "[See on arxiv](https://arxiv.org/abs/2302.08982)"
+summary: ""
 date: 2023-02-02T08:12:10.676Z
 ---
