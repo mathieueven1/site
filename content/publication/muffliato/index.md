@@ -8,7 +8,7 @@ authors:
   - admin
   - Aurélien Bellet
   - Laurent Massoulié
-publication: Neural Information Processing Systems (NeurIPS), 2021
+publication: Neural Information Processing Systems (NeurIPS), 2022
 abstract: "[See on arxiv](https://arxiv.org/abs/2206.05091)"
 draft: false
 featured: false
