@@ -35,8 +35,8 @@ highlight_name: true
 ---
 
 Starting October 1st, 2025, I am a researcher (CR, Chargé de Recherche) at Inria Montpellier, in the [Premedical](https://team.inria.fr/premedical/) team.
-I am working on topics related to causal inference and machine learning applied to medical data.
+I am working on topics related to causal inference, machine learning and privacy in a medical context.
 I also work with the startup [Theremia Health](https://theremia.health/). 
 
 Before that, I was a PhD student from September 2021 to June 2024 under the supervision of [Laurent Massoulié](https://www.di.ens.fr/laurent.massoulie/), working on the theory and algorithms of Machine Learning, and a postdoc in the Premedical team between October 2024 and September 2025.
-My PhD manuscript is available [here](https://hal.science/tel-04877971v1/document), for which I was awarded an accessit to the [Gilles-Kahn PhD](https://www.socinfo.fr/palmares-du-prix-de-these-gilles-kahn-2024/) prize by the Société d'Informatique de France, sponsored by the French Académie des Sciences.
+My PhD manuscript is available [here](https://hal.science/tel-04877971v1/document), for which I was awarded an accessit to the [Gilles-Kahn PhD](https://www.socinfo.fr/palmares-du-prix-de-these-gilles-kahn-2024/) prize by the Société d'Informatique de France, sponsored by the French Académie des Sciences. I also received an [Oustanding Paper Award](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/) at NeurIPS 2021.
